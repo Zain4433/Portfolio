@@ -9,7 +9,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 </p>
 
 <p align="center">
-  <a href="https://YOUR-VERCEL-URL.vercel.app" target="_blank">
+  <a href="https://portfolio-bsrm.vercel.app" target="_blank">
     <strong>🚀 View Live Site</strong>
   </a>
 </p>
