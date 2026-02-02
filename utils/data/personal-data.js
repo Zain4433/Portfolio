@@ -10,5 +10,5 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/zain-haider-63a3b6286/',
   instagram: 'https://www.instagram.com/zain.haider_',
   devUsername: "",
-  resume: "https://drive.google.com/file/d/YOUR_RESUME_ID/view?usp=sharing"
+  resume: "/Resume.pdf"
 }
