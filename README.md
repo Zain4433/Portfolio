@@ -2,9 +2,17 @@
 
 A modern, responsive portfolio website showcasing my skills, projects, and experience.
 
-## 🚀 Live Site
+## 🎬 Demo
 
-Visit: [Portfolio](https://portfolio-zain4433.vercel.app)
+<p align="center">
+  <img src="./public/demo.png" alt="Portfolio Screenshot" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://YOUR-VERCEL-URL.vercel.app" target="_blank">
+    <strong>🚀 View Live Site</strong>
+  </a>
+</p>
 
 ## 💻 Tech Stack
 
